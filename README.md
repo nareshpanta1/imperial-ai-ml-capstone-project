@@ -21,12 +21,12 @@ We then take these input and output and add it to the initial data set and rerun
 
 # techincal approach 
 
-1.Load the intital data into X and y array
-2.For Week2 onwards append the previous weeks input and output
-3.Find the maximum value of y in the input
-4.Define the GP model and fit X,y
-5.Define a UCB aquisition function
-6.Create a grid or random sample depdending on whether doing grid search or random search
-7.use the UCB function to get the ucb scores of the sample from above step
-8.find the maximum value of the ucb scores
-9.submit this as a next best point
+1.Load the intital data into X and y array\
+2.For Week2 onwards append the previous weeks input and output\
+3.Find the maximum value of y in the input\
+4.Define the GP model and fit X,y\
+5.Define a UCB aquisition function\
+6.Create a grid or random sample depdending on whether doing grid search or random search\
+7.use the UCB function to get the ucb scores of the sample from above step\
+8.find the maximum value of the ucb scores\
+9.submit this as a next best point\
