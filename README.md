@@ -30,3 +30,10 @@ We then take these input and output and add it to the initial data set and rerun
 7.use the UCB function to get the ucb scores of the sample from above step\
 8.find the maximum value of the ucb scores\
 9.submit this as a next best point\
+
+
+# Data sheet
+[Data Sheet](DATA_SHEET.md)
+
+# Model card
+[Model Card](MODEL_CARD.md)
