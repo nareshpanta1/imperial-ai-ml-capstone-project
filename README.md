@@ -33,7 +33,7 @@ We then take these input and output and add it to the initial data set and rerun
 
 
 # Data sheet
-[Data Sheet](DATA_SHEET.md)
+[Data Sheet](/DATA_SHEET.MD)
 
 # Model card
-[Model Card](MODEL_CARD.md)
+[Model Card](/MODEL_CARD.MD)
