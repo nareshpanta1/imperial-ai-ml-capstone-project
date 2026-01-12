@@ -30,7 +30,7 @@ Goal is to identify the maximum value
 
 # Distribution and maintenance
 
-- Data set is available in this github rep under /data and each week's input/output is in the code as append
+- Data set is available in this github repo under /data and each week's input/output is in the code as append
 - This data can be freely used
 - This repo is maintained by myself (Naresh)
 
