@@ -21,6 +21,8 @@ We then take these input and output and add it to the initial data set and rerun
 |Function 7  | 6D array  | 1D array  |
 |Function 8  | 8D array  | 1D array  |
 
+initial data can be found in the /data folder. Each week's addition and output is in the code itself and also can be found in the observations.xlsx
+
 # techincal approach 
 
 1.Load the intital data into X and y array\
